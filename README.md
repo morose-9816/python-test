@@ -1,5 +1,6 @@
 # Stock Data Analysis
 2015-16 Daily OHLCV Data Anaysis for INFY & TCS
+
 -- Created 4,16,....,52 week moving average(closing price) for each stock and index through a function.
 
 -- Handled unequal time series due to stock market holidays.
